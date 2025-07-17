@@ -1,4 +1,4 @@
-# AI RealTime ChatApp
+# CodeVerse
 ![Screenshot 2025-01-30 075346](https://github.com/user-attachments/assets/89f666be-0946-46ea-bbd3-0fb865ab311f)
 ![Screenshot 2025-01-30 075357](https://github.com/user-attachments/assets/c9fdbf6d-a779-4b43-845a-e996428968cf)
 ![Screenshot 2025-01-30 075421](https://github.com/user-attachments/assets/a4009682-d517-42ff-ad74-b13c96f4aa01)
